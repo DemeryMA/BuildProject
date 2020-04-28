@@ -23,3 +23,9 @@
 .App-link {
   color: #09d3ac;
 }
+
+.Links {
+  display: flex;
+  justify-content: space-evenly;
+  font-size: x-large;
+}
